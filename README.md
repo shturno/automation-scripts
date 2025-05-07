@@ -130,6 +130,24 @@ These scripts can help you with:
 
 MIT
 
+## 🗺️ Roadmap & Future Improvements
+
+This project is actively evolving. Here are some planned enhancements:
+
+### Coming Soon
+- [ ] Email automation scripts (SMTP integration for sending reports)
+- [ ] Database connectors for data import/export
+- [ ] API integration examples (REST and GraphQL)
+- [ ] Command-line interface improvements with better argument handling
+
+### Under Consideration
+- [ ] Dashboard for visualizing automation statistics
+- [ ] Authentication system for secure API integrations
+- [ ] Cloud deployment examples (AWS Lambda, GCP Functions)
+- [ ] Mobile notifications integration
+
+Feel free to open issues or contribute with your own ideas!
+
 ---
 
 Built with ❤️ as a demonstration of automation skills and best practices. 
